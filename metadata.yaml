@@ -1,0 +1,42 @@
+_repo: ProcopiusHistory-of-the-Wars-Books-V.-and-VI._20298
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dewing, H. B. (Henry Bronson)
+    alias: Dewing, Henry Bronson
+    birthdate: 1882
+    gutenberg_agent_id: '6916'
+    url: http://www.gutenberg.org/2009/agents/6916
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Procopius
+    aliases:
+    - Procopius, of Caesarea
+    - Procopius, Caesariensis
+    gutenberg_agent_id: '4712'
+    url: http://www.gutenberg.org/2009/agents/4712
+    wikipedia: http://en.wikipedia.org/wiki/Procopius
+description: 'I-V: History of the wars. VI: The anecdota or Secret history. VII: Buildings
+  ; General index to Procopius / with the collab. of Glanville Downey.'
+gutenberg_issued: '2007-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Justinian I, Emperor of the East, 483?-565'
+- !lcsh 'Goths -- Italy'
+- !lcsh 'Byzantine Empire -- History -- Justinian I, 527-565'
+- !lcsh 'Vandals'
+- !lcc 'PA'
+- !lcsh 'Iran -- History -- To 640'
+title: 'Procopius
+
+  History of the Wars, Books V. and VI.'
+url: http://www.gutenberg.org/ebooks/20298

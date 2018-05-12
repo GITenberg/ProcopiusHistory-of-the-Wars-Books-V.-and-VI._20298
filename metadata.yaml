@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Procopius
 description: 'I-V: History of the wars. VI: The anecdota or Secret history. VII: Buildings
   ; General index to Procopius / with the collab. of Glanville Downey.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20298#ProcopiusHistory-of-the-Wars-Books-V.-and-VI.
 gutenberg_issued: '2007-01-06'
 gutenberg_type: Text
 identifiers:
